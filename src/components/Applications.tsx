@@ -13,7 +13,7 @@ const Applications = () => {
       description: "Maintain clean air quality in food manufacturing facilities."
     },
     {
-      title: "Industrial Manufacturing",
+      title: "Industrial Manufacturer",
       image: "https://images.esi.info/Images/687173_1561709991778_PF.jpg&fit=crop&q=80",
       description: "Comprehensive solutions for manufacturing plants."
     }
