@@ -25,9 +25,9 @@ const Footer = () => {
           <div>
             <h4 className="text-lg font-semibold mb-4">Contact</h4>
             <ul className="space-y-2 text-gray-400">
-              <li>Gurugram, Haryana</li>
-              <li>+91 98765 43210</li>
-              <li>contact@ecosorbindia.com</li>
+              <li>B-2 Sri Sai Nivas, Pai Layout, Bengaluru 560016</li>
+              <li>+9194801 09363</li>
+              <li>pioneer0709@gmail.com</li>
             </ul>
           </div>
         </div>
