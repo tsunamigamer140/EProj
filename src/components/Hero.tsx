@@ -24,7 +24,7 @@ const Hero = () => {
           </div>
           <div className="relative">
             <img
-              src="https://images.unsplash.com/photo-1581093458791-9d42d0aad77a?auto=format&fit=crop&q=80"
+              src="https://butterflymx.com/wp-content/uploads/2024/07/industrial-facilities.jpg&fit=crop&q=80"
               alt="Industrial facility"
               className="rounded-lg shadow-xl"
             />
