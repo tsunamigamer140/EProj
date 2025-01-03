@@ -14,7 +14,7 @@ const Applications = () => {
     },
     {
       title: "Industrial Manufacturer",
-      image: "https://images.esi.info/Images/687173_1561709991778_PF.jpg&fit=crop&q=80",
+      image: "https://images.esi.info/Images/687173_1561709991778_PF.jpg",
       description: "Comprehensive solutions for manufacturing plants."
     }
   ];
