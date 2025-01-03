@@ -20,20 +20,20 @@ const Contact = () => {
               <div className="flex items-start">
                 <MapPin className="w-6 h-6 text-emerald-600 mt-1 mr-3" />
                 <p className="text-gray-600">
-                  123 Business Park, Sector 5<br />
-                  Gurugram, Haryana 122001<br />
+                  B-2 Sri Sai Nivas, Pai Layout<br />
+                  Bengaluru, Karnataka 560016<br />
                   India
                 </p>
               </div>
               
               <div className="flex items-center">
                 <Phone className="w-6 h-6 text-emerald-600 mr-3" />
-                <p className="text-gray-600">+91 98765 43210</p>
+                <p className="text-gray-600">+9194801 09363</p>
               </div>
               
               <div className="flex items-center">
                 <Mail className="w-6 h-6 text-emerald-600 mr-3" />
-                <p className="text-gray-600">contact@ecosorbindia.com</p>
+                <p className="text-gray-600">pioneer0709@gmail.com</p>
               </div>
             </div>
           </div>
